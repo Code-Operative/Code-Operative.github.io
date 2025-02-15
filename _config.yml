@@ -30,15 +30,6 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
-collections:
-  projects:
-    output: false
-  members:
-    output: true
-  partners:
-    output: false
-  clients:
-    output: false
 
 defaults:
   - scope:
